@@ -1,0 +1,22 @@
+{
+  "name": "express_starter_kit",
+  "description": "simple starter_kit",
+  "directory": "public/vendor",
+  "main": "",
+  "authors": [
+    "traga <traga@inbox.ru>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}

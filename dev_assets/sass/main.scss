@@ -1,0 +1,19 @@
+html {
+	font-size: 16px;
+}
+
+body {
+	background-color: #333;
+	color: #ccc;
+	padding: 10px;
+	h1 {
+		text-align: center;
+	}
+}
+
+p {
+	span {
+		color: #fff;
+		font-weight: bold;
+	}
+}
